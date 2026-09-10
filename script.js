@@ -8,10 +8,10 @@ const businessProfile = {
 
   // BASIC INFORMATION
   slug: "parishar-rajbhandari",
-  name: "Parishar Rajbhandari",
-  title: "Manager",
-  company: "Hamro Trading Concern Pvt. Ltd.",
-  profileImage: "assets/profile/parishar.jpeg",
+  name: "Tappo",
+  title: "Tap",
+  company: "A digtial contact.",
+  profileImage: "assets/profile/tappo.jpeg",
   logo: "assets/logos/company_logo.png",
 
   // INTRODUCTION
