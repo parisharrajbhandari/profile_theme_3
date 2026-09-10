@@ -11,7 +11,7 @@ const businessProfile = {
   name: "Tappo",
   title: "Tap",
   company: "A digtial contact.",
-  profileImage: "assets/profile/tappo.png",
+  profileImage: "assets/profile/tappo.jpeg",
   logo: "assets/logos/company_logo.png",
 
   // INTRODUCTION
