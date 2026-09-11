@@ -7,22 +7,22 @@ PREMIUM DIGITAL BUSINESS PROFILE (FIXED & IMPROVED)
 const businessProfile = {
 
   // BASIC INFORMATION
-  slug: "parishar-rajbhandari",
+  slug: "Tappo",
   name: "Tappo",
   title: "Tap",
   company: "A digtial contact.",
   profileImage: "assets/profile/tappo.jpeg",
-  logo: "assets/logos/company_logo.png",
+  logo: "assets/profile/tappo.jpeg",
 
   // INTRODUCTION
-  tagline: "Decor your space.",
+  tagline: "Tap Share Connect",
   description:
-    "We provide a premium range of Curtains, Carpets, Vinyl Parquets, Laminate Parquets, Mattresses, Rugs, and custom home/office interior solutions.",
+    "Share all your business information with single tap.",
 
   // CONTACT INFORMATION
   phone: "+977 9855017454",
   whatsapp: "9779855017454", 
-  email: "rajbhandariparishar@gmail.com",
+  email: "tappootap@gmail.com",
   website: "https://parishar-rajbhandari-profile.vercel.app",
 
   // LOCATION
@@ -30,27 +30,27 @@ const businessProfile = {
   mapsUrl: "https://maps.app.goo.gl/oAwfcawXmEtwf24k6",
 
   // SOCIAL MEDIA
-  instagram: "https://www.instagram.com/parishar_rajbhandari_/?hl=en",
+  instagram: "https://www.instagram.com/tappo_o/?hl=en",
   facebook: "https://www.facebook.com/parishar.rajbhandari.7",
   linkedin: "https://www.linkedin.com/in/parishar-rajbhandari-00531541b/",
   youtube: "",
-  tiktok: "",
+  tiktok: "https://www.tiktok.com/@tappo66",
 
   // WHATSAPP DEFAULT MESSAGE
   whatsappMessage:
-    "Hello Parishar, I came across your digital profile and would like to inquire about your interior decor products and services.",
+    "Hello, I found your business through Tappo. ",
 
   // SERVICES
   services: [
-    "Premium Curtains & Drapery",
-    "Carpets, Rugs & Vinyl/Laminate Parquet",
-    "Custom Mattress & Furnishings",
-    "Professional Stitching & Installation"
+    "Business card sharing through single Tap",
+    "QR code also available",
+    "Custumizable NFC card",
+    "Custumizable Interface"
   ],
 
   // MEDIA & VCARD
-  businessCardImage: "assets/business-cards/business_card.png",
-  vcardPhoto: "assets/profile/parishar.jpeg"
+  businessCardImage: "assets/profile/tappo.jpeg",
+  vcardPhoto: "assets/profile/tappo.jpeg"
 };
 
 /* =====================================================
