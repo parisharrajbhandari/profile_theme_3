@@ -7,11 +7,11 @@ PREMIUM DIGITAL BUSINESS PROFILE (FIXED & IMPROVED)
 const businessProfile = {
 
   // BASIC INFORMATION
-  slug: "Tappo",
-  name: "Tappo",
-  title: "Tap",
-  company: "A digtial contact.",
-  profileImage: "assets/profile/tappo.jpeg",
+  slug: "parishar-rajbhandari",
+  name: "Parishar Rajbhandari",
+  title: "Co-founder",
+  company: "Tappo",
+  profileImage: "assets/profile/parishar.jpeg",
   logo: "assets/profile/tappo.jpeg",
 
   // INTRODUCTION
